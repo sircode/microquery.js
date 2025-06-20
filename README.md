@@ -17,7 +17,7 @@ microQuery doesn’t try to replicate jQuery — it simply offers a minimal set 
 * Familiar API
 * No dependencies
 * Ideal for PHP/JS projects, static sites, or custom CMSes
-* [Demo](https://myappz.com/microquery/demo.html)
+
 
 
 ---
@@ -125,7 +125,7 @@ $('#output').html('<strong>Hi</strong>');
 ### Attributes & Props
 
 ```js
-$('#link').attr('href', 'https://myappz.com');
+$('#link').attr('href', 'https://example.com');
 $('#check').prop('checked', true);
 
 $('#el').data('key', 'value');         
@@ -217,5 +217,5 @@ We welcome pull requests and ideas! See [CONTRIBUTING.md](CONTRIBUTING.md) for g
 
 ## 🔒 License
 
-MIT License — (c) 2024–2025 [MyAppz.com](https://myappz.com)
+MIT License — (c) 2024–2025 SirCode
 Not affiliated with the jQuery Foundation.
