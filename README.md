@@ -211,6 +211,8 @@ $(function () {
 
 ```
 
+[Live Examples](https://itnb.com/microquery/examples.html) 
+
 ## 🤝 Contributing
 
 We welcome pull requests and ideas! See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
